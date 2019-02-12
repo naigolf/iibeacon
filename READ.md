@@ -1,1 +1,1 @@
-https://ibeacon-indoor-golf.herokuapp.com/
+http://ibeacon-indoor-golf.herokuapp.com/
